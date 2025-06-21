@@ -4,7 +4,7 @@ metadata:
   name: 2048-service
 spec:
   selector:
-    app: 2048
+    app: game-2048
   ports:
     - protocol: TCP
       port: 80
